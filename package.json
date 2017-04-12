@@ -1,0 +1,20 @@
+{
+  "name": "guacamole-socket",
+  "version": "0.9.0",
+  "description": "Guacamole socket stream parser and builder",
+  "main": "index.js",
+  "author": "Keijo Kapp <keijo.kapp@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keijokapp/guacamole-socket"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-spies": "^0.7.1",
+    "mocha": "^3.2.0"
+  }
+}
